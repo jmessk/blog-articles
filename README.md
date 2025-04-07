@@ -1,3 +1,3 @@
-# Posts
+# Blog Post
 
-markdown posts for my blog
+This is a repository for storing markdown used in my markdown blog.
